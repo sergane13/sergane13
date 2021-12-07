@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sergane13
-- 👀 I’m interested in Game design
-- 🌱 I’m currently learning Game design
-- 💞️ I’m looking to collaborate on Game design
+- 👀 I’m interested in Crypto
+- 🌱 I’m currently learning Game design, Solidity
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me serban13chisca@gmail.com
 
 <!---
