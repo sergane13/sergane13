@@ -1,6 +1,8 @@
+#### 
 - 👨‍💻 Cofounder at [Khyron Realm](https://khyron-realm.netlify.app/) crypto game
 - 👨‍💻 Cofounder at [Liquid 3D printer](https://liquid-printer.github.io/liquid-website/)
 
+#### 
 - 👋 Hi, I’m @sergane13
 - 👀 I’m interested in crypto, trading, data analysis ...
 - 🌱 I’m currently learning Game design, Solidity
