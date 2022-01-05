@@ -1,5 +1,5 @@
-- 👨‍💻 Cofounder at [Khyron Realm](https://khyron-realm.netlify.app/) crypto game
-- 👨‍💻 Cofounder at [Liquid 3D printer](https://liquid-printer.github.io/liquid-website/)
+- 👨‍💻 Built [Khyron Realm](https://khyron-realm.com/)
+- 👨‍💻 Built [Liquid 3D printer](https://liquid-printer.github.io/liquid-website/)
 
 Languages: C, C++, C#, Python, Html/Css/JavaScript, Solidity ... more to come
 
