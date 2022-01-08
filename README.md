@@ -3,11 +3,15 @@
 
 <h2> 
   Languages:
+  </br>
   <ul>C</ul>
-        
+  <ul>C++</ul>
+  <ul>C#</ul>
+  <ul>Python</ul>
+  <ul>Html/Css/JavaScript</ul>
+  <ul>Solidity</ul>
+  <ul>more to come...</ul>
 </h2>
-C++, C#, Python, Html/Css/JavaScript, Solidity ... more to come
-
 <p> 
   Worked 3+ years with SolidWorks & PTC Creo Parametric
 </p>
