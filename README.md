@@ -1,7 +1,7 @@
 - 👨‍💻 Built [Khyron Realm](https://khyron-realm.com/)
 - 👨‍💻 Built [Liquid 3D printer](https://liquid-printer.github.io/liquid-website/)
 
-<h2> 
+<h3> 
   Languages:
   </br>
   <ul>C</ul>
@@ -11,7 +11,7 @@
   <ul>Html/Css/JavaScript</ul>
   <ul>Solidity</ul>
   <ul>more to come...</ul>
-</h2>
+</h3>
 <p> 
   Worked 3+ years with SolidWorks & PTC Creo Parametric
 </p>
