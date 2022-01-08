@@ -2,6 +2,7 @@
 - 👨‍💻 Built [Liquid 3D printer](https://liquid-printer.github.io/liquid-website/)
 
 Languages: C, C++, C#, Python, Html/Css/JavaScript, Solidity ... more to come
+Worked 3+ years with SolidWorks & PTC Creo Parametric
 
 #### 
 - 👋 Hi, I’m @sergane13
