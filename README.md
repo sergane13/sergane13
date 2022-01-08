@@ -2,15 +2,15 @@
 - 👨‍💻 Built [Liquid 3D printer](https://liquid-printer.github.io/liquid-website/)
 
 <h3> 
-  Languages:
-  </br>
+  <>Languages:
+  <p>
   <ul>C</ul>
   <ul>C++</ul>
   <ul>C#</ul>
   <ul>Python</ul>
   <ul>Html/Css/JavaScript</ul>
   <ul>Solidity</ul>
-  <ul>more to come...</ul>
+  </p>
 </h3>
 <p> 
   Worked 3+ years with SolidWorks & PTC Creo Parametric
