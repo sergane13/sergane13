@@ -1,8 +1,17 @@
 - 👨‍💻 Built [Khyron Realm](https://khyron-realm.com/)
 - 👨‍💻 Built [Liquid 3D printer](https://liquid-printer.github.io/liquid-website/)
 
-Languages: C, C++, C#, Python, Html/Css/JavaScript, Solidity ... more to come
-Worked 3+ years with SolidWorks & PTC Creo Parametric
+<h2> 
+  Languages:
+  <ul>C</ul>
+        
+</h2>
+C++, C#, Python, Html/Css/JavaScript, Solidity ... more to come
+
+<p> 
+  Worked 3+ years with SolidWorks & PTC Creo Parametric
+</p>
+
 
 #### 
 - 👋 Hi, I’m @sergane13
