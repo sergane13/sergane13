@@ -4,7 +4,7 @@
 <h3> 
   <>Languages:
   <p>
-  <ul>C</ul>
+  <ul>* C</ul>
   <ul>C++</ul>
   <ul>C#</ul>
   <ul>Python</ul>
