@@ -5,11 +5,11 @@
 - 👨‍💻 Built [Liquid 3D printer](https://liquid-printer.github.io/liquid-website/)
 
 ![L](https://img.shields.io/badge/Language-C-brightgreen)
-![L](https://img.shields.io/badge/Language-C%2B%2B-brightgreen)
-![L](https://img.shields.io/badge/Language-C#-brightgreen)
-![L](https://img.shields.io/badge/Language-Python-brightgreen)
-![L](https://img.shields.io/badge/Language-Html/Css/Javascript-brightgreen)
-![L](https://img.shields.io/badge/Language-Solidity-brightgreen)
+![L](https://img.shields.io/badge/Language-C%2B%2B-orange)
+![L](https://img.shields.io/badge/Language-C%23-brightgreen)
+![L](https://img.shields.io/badge/Language-Python-blue)
+![L](https://img.shields.io/badge/Language-Html/Css/Javascript-yellow)
+![L](https://img.shields.io/badge/Language-Solidity-red)
 
 <p> 
   Worked 3+ years with SolidWorks & PTC Creo Parametric
