@@ -1,20 +1,16 @@
 ![](https://komarev.com/ghpvc/?username=sergane13)
-![L](https://img.shields.io/badge/Language-C%2B%2B-brightgreen)
+
 
 - 👨‍💻 Built [Khyron Realm](https://khyron-realm.com/)
 - 👨‍💻 Built [Liquid 3D printer](https://liquid-printer.github.io/liquid-website/)
 
-<h3> 
-  <h3>Languages:</h3>
-  <p>
-  <ul>C</ul>
-  
-  <ul>C#</ul>
-  <ul>Python</ul>
-  <ul>Html/Css/JavaScript</ul>
-  <ul>Solidity</ul>
-  </p>
-</h3>
+![L](https://img.shields.io/badge/Language-C-brightgreen)
+![L](https://img.shields.io/badge/Language-C%2B%2B-brightgreen)
+![L](https://img.shields.io/badge/Language-C#-brightgreen)
+![L](https://img.shields.io/badge/Language-Python-brightgreen)
+![L](https://img.shields.io/badge/Language-Html/Css/Javascript-brightgreen)
+![L](https://img.shields.io/badge/Language-Solidity-brightgreen)
+
 <p> 
   Worked 3+ years with SolidWorks & PTC Creo Parametric
 </p>
