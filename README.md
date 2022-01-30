@@ -8,7 +8,7 @@
   <h3>Languages:</h3>
   <p>
   <ul>C</ul>
-  <ul>C++</ul>
+  [](https://img.shields.io/badge/Language-C%2B%2B-brightgreen)
   <ul>C#</ul>
   <ul>Python</ul>
   <ul>Html/Css/JavaScript</ul>
