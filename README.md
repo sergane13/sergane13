@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=sergane13)
 
-- 👨‍ Cofounder at [Runus](runus.tech)
+- 👨‍ Founder at [Runus](runus.tech)
 - 👨‍💻 Built [Khyron Realm](https://khyron-realm.com/)
 - 👨‍💻 Built [Liquid 3D printer](https://liquid-printer.github.io/liquid-website/)
 
