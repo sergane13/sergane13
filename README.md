@@ -8,7 +8,7 @@
 ![L](https://img.shields.io/badge/Language-C%2B%2B-orange)
 ![L](https://img.shields.io/badge/Language-C%23-brightgreen)
 ![L](https://img.shields.io/badge/Language-Python-blue)
-![L](https://img.shields.io/badge/Language-Html/Css/Javascript-yellow)
+![L](https://img.shields.io/badge/Language-Html/Css/Javascript/Typescript-yellow)
 ![L](https://img.shields.io/badge/Language-Solidity-red)
 
 <p> 
