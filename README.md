@@ -21,7 +21,7 @@
 - 👀 I’m interested in crypto, trading, data analysis ...
 - 🌱 I’m currently learning Solidity, Market analysis, and more ...
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me serban13chisca@gmail.com or you better aproach me via discord serban#0756
+- 📫 How to reach me https://www.linkedin.com/in/serbanchisca/
 
 <!---
 sergane13/sergane13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
