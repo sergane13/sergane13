@@ -10,6 +10,8 @@
 ![L](https://img.shields.io/badge/Language-Python-blue)
 ![L](https://img.shields.io/badge/Language-Html/Css/Javascript/Typescript-yellow)
 ![L](https://img.shields.io/badge/Language-Solidity-red)
+![L](https://img.shields.io/badge/Language-SQL-blue)
+![L](https://img.shields.io/badge/Language-NoSQL-blue)
 
 <p> 
   Worked 3+ years with SolidWorks & PTC Creo Parametric
