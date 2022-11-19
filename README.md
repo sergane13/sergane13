@@ -19,7 +19,8 @@
 ![L](https://img.shields.io/badge/Language-NoSQL-blue)
 
 <p> 
-  Worked 3 years with SolidWorks & PTC Creo Parametric
+  Previous experience in mechanical design.
+  Worked with SolidWorks & PTC Creo Parametric
 </p>
 
 ## Passions
