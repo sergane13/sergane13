@@ -2,7 +2,8 @@
 
 ## Experience
 
-- 👨‍ Founder at [Runus](https://runus.tech)
+- Software Engineer at XPERI Inc.
+- 👨‍ Built [Runus](https://runus.tech)
 - 👨‍💻 Built [Khyron Realm](https://khyron-realm.com/)
 - 👨‍💻 Built [Liquid 3D printer](https://liquid-printer.github.io/liquid-website/)
 
@@ -17,11 +18,6 @@
 ![L](https://img.shields.io/badge/Language-Solidity-red)
 ![L](https://img.shields.io/badge/Language-SQL-blue)
 ![L](https://img.shields.io/badge/Language-NoSQL-blue)
-
-<p> 
-  Previous experience in mechanical design.
-  Worked with SolidWorks & PTC Creo Parametric
-</p>
 
 ## Passions
 Technology, Coding and Financial Markets 
