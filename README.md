@@ -2,10 +2,10 @@
 
 ## Experience
 
-- Software Engineer at XPERI Inc.
+- Fullstack Developer at XPERI Inc.
+- Fullstack Developer at Runus.
 
 ## Worked with
-
 ![L](https://img.shields.io/badge/Language-C-brightgreen)
 ![L](https://img.shields.io/badge/Language-C%2B%2B-orange)
 ![L](https://img.shields.io/badge/Language-C%23-brightgreen)
@@ -21,8 +21,7 @@ Technology, Coding and Financial Markets
 
 #### 
 - 👋 Hi, I’m Serban
-- 👀 I’m interested in software development, business and finance
-- 🌱 I’m currently improving my coding skills in developing microservices
+- 👀 I’m interested in software development
 - 💞️ I’m looking to collaborate on anything 
 - 📫 How to reach me https://www.linkedin.com/in/serbanchisca/
 
