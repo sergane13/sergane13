@@ -2,5 +2,5 @@
 
 ## Experience
 
-- Fullstack Developer at XPERI Inc.
-- Fullstack Developer at Runus.
+- Software Developer at XPERI Inc.
+- Software Developer & Cofounder at Runus.
